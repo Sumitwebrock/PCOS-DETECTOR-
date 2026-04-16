@@ -1,0 +1,1 @@
+Web application that enables women to self-assess potential PCOS symptoms through a simple 10-question screening. It delivers a personalized risk summary, actionable next-step guidance, and clear medical disclaimers to support informed decision-making.
