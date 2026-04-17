@@ -836,7 +836,7 @@ elif st.session_state.show_result:
             <p><span class="urgent-dot"></span><strong>Endocrinologist</strong> — if you have significant weight/insulin concerns</p>
             <p><span class="urgent-dot"></span><strong>Dermatologist</strong> — if acne or hair loss is affecting your confidence</p>
             <br>
-            <p style="font-weight:600;color:#c0404e">🔴 See a doctor urgently if you experience:</p>
+            <p style="font-weight:600;color:#c0404e"> See a doctor urgently if you experience:</p>
             <p>• Periods missing for 3+ months</p>
             <p>• Severe pelvic pain</p>
             <p>• Extreme fatigue or sudden weight changes</p>
@@ -956,7 +956,7 @@ elif st.session_state.show_result:
         st.markdown("</div>", unsafe_allow_html=True)
 
     st.markdown("""
-    <div class="petal-bar">🌸 🌺 🌸 🌺 🌸</div>
+    <div class="petal-bar">🌸 🌺 🌸 🌸</div>
     <div style="text-align:center;font-size:0.78rem;color:#c9a0b0;padding-bottom:2rem;">
         Made with love for every woman navigating her health journey 💕
     </div>
